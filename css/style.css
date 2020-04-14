@@ -3796,7 +3796,7 @@ a.logo:hover{
     -o-transition: all 0.2s cubic-bezier(0.300, 0.100, 0.580, 1.000);
     -ms-transition: all 0.2s cubic-bezier(0.300, 0.100, 0.580, 1.000); 
     transition: all 0.2s cubic-bezier(0.300, 0.100, 0.580, 1.000);
-    opacity: 0.75;
+    opacity: 0.65;
 }
 .post-prev-img a:hover{
     opacity: .85;
