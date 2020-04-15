@@ -2955,6 +2955,7 @@ a.logo:hover{
     overflow: hidden;
 }
 .team-item-image img{
+    opacity: .75;
     width: 100%;
 }
 .team-item-image:after{
