@@ -2951,6 +2951,7 @@ a.logo:hover{
 }
 .team-item-image{
     position: relative;
+    height: 450px;
     overflow: hidden;
 }
 .team-item-image img{
