@@ -3396,6 +3396,7 @@ a.logo:hover{
     width: 100%;
     display: block;
     overflow: hidden;
+    opacity: .75;
 }
 .work-intro{
     width: 100%;
