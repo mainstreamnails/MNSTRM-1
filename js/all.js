@@ -367,7 +367,166 @@
             },
             mainClass: "mfp-fade"
         });
+
         
+        // Works Item Lightbox Ena 				
+        $(".work-lightbox-link-ena").magnificPopup({
+            gallery: {
+                enabled: true
+            },
+            mainClass: "mfp-fade"
+        });
+        // Works Item Lightbox alisa 				
+        $(".work-lightbox-link-alisa").magnificPopup({
+            gallery: {
+                enabled: true
+            },
+            mainClass: "mfp-fade"
+        });
+        // Works Item Lightbox Aleane 				
+        $(".work-lightbox-link-aleane").magnificPopup({
+            gallery: {
+                enabled: true
+            },
+            mainClass: "mfp-fade"
+        });
+        // Works Item Lightbox cali 				
+        $(".work-lightbox-link-cali").magnificPopup({
+            gallery: {
+                enabled: true
+            },
+            mainClass: "mfp-fade"
+        });
+
+        
+        // Works Item Lightbox Ena 				
+        $(".work-lightbox-link-ena").magnificPopup({
+            gallery: {
+                enabled: true
+            },
+            mainClass: "mfp-fade"
+        });
+        // Works Item Lightbox alisa 				
+        $(".work-lightbox-link-alisa").magnificPopup({
+            gallery: {
+                enabled: true
+            },
+            mainClass: "mfp-fade"
+        });
+        // Works Item Lightbox Aleane 				
+        $(".work-lightbox-link-alean").magnificPopup({
+            gallery: {
+                enabled: true
+            },
+            mainClass: "mfp-fade"
+        });
+        // Works Item Lightbox cali 				
+        $(".work-lightbox-link-cali").magnificPopup({
+            gallery: {
+                enabled: true
+            },
+            mainClass: "mfp-fade"
+        });
+        
+        // Works Item Lightbox Ena 				
+        $(".work-lightbox-link-ena").magnificPopup({
+            gallery: {
+                enabled: true
+            },
+            mainClass: "mfp-fade"
+        });   
+        // Works Item Lightbox Melly 				
+        $(".work-lightbox-link-melly").magnificPopup({
+            gallery: {
+                enabled: true
+            },
+            mainClass: "mfp-fade"
+        });
+        // Works Item Lightbox alisa 				
+        $(".work-lightbox-link-alisa").magnificPopup({
+            gallery: {
+                enabled: true
+            },
+            mainClass: "mfp-fade"
+        });
+        // Works Item Lightbox Aleane 				
+        $(".work-lightbox-link-alean").magnificPopup({
+            gallery: {
+                enabled: true
+            },
+            mainClass: "mfp-fade"
+        });
+        // Works Item Lightbox cali 				
+        $(".work-lightbox-link-cali").magnificPopup({
+            gallery: {
+                enabled: true
+            },
+            mainClass: "mfp-fade"
+        });
+        
+        // Works Item Lightbox dez 				
+        $(".work-lightbox-link-dez").magnificPopup({
+            gallery: {
+                enabled: true
+            },
+            mainClass: "mfp-fade"
+        });
+        // Works Item Lightbox felica 				
+        $(".work-lightbox-link-felica").magnificPopup({
+            gallery: {
+                enabled: true
+            },
+            mainClass: "mfp-fade"
+        });
+        // Works Item Lightbox Jessi				
+        $(".work-lightbox-link-jessi").magnificPopup({
+            gallery: {
+                enabled: true
+            },
+            mainClass: "mfp-fade"
+        });
+        // Works Item Lightbox Josh				
+        $(".work-lightbox-link-josh").magnificPopup({
+            gallery: {
+                enabled: true
+            },
+            mainClass: "mfp-fade"
+        });
+        // Works Item Lightbox meesh 				
+        $(".work-lightbox-link-meesh").magnificPopup({
+            gallery: {
+                enabled: true
+            },
+            mainClass: "mfp-fade"
+        });
+        // Works Item Lightbox paulina 				
+        $(".work-lightbox-link-paulina").magnificPopup({
+            gallery: {
+                enabled: true
+            },
+            mainClass: "mfp-fade"
+        });
+        // Works Item Lightbox chuemee				
+        $(".work-lightbox-link-chuemee").magnificPopup({
+            gallery: {
+                enabled: true
+            },
+            mainClass: "mfp-fade"
+        });
+        // Works Item Lightbox melinda				
+        $(".work-lightbox-link-melinda").magnificPopup({
+            gallery: {
+                enabled: true
+            },
+            mainClass: "mfp-fade"
+        });
+        // Works Item Lightbox nessa				
+        $(".work-lightbox-link-nessa").magnificPopup({
+            gallery: {
+                enabled: true
+            },
+            mainClass: "mfp-fade"
+        });
         // Works Item Lightbox	
         $(".lightbox-gallery-1").magnificPopup({
             gallery: {
