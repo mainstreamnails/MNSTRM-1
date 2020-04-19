@@ -527,6 +527,13 @@
             },
             mainClass: "mfp-fade"
         });
+        // Works Item Lightbox nessa				
+        $(".work-lightbox-link-su").magnificPopup({
+            gallery: {
+                enabled: true
+            },
+            mainClass: "mfp-fade"
+        });
         // Works Item Lightbox	
         $(".lightbox-gallery-1").magnificPopup({
             gallery: {
