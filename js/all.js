@@ -377,6 +377,14 @@
             mainClass: "mfp-fade"
         });
         
+        
+        // portfolio Item Lightbox IG 				
+        $(".work-lightbox-link-qa").magnificPopup({
+            gallery: {
+                enabled: true
+            },
+            mainClass: "mfp-fade"
+        });
         // Works Item Lightbox Ena 				
         $(".work-lightbox-link-ena").magnificPopup({
             gallery: {
