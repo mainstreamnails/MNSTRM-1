@@ -376,6 +376,7 @@
             },
             mainClass: "mfp-fade"
         });
+        
         // Works Item Lightbox Ena 				
         $(".work-lightbox-link-ena").magnificPopup({
             gallery: {
