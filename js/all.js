@@ -369,6 +369,13 @@
         });
 
         
+        // portfolio Item Lightbox IG 				
+        $(".work-lightbox-link-ig").magnificPopup({
+            gallery: {
+                enabled: true
+            },
+            mainClass: "mfp-fade"
+        });
         // Works Item Lightbox Ena 				
         $(".work-lightbox-link-ena").magnificPopup({
             gallery: {
