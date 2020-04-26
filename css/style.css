@@ -2524,6 +2524,7 @@ a.logo:hover{
 }
 .bg-dark-lighter{
     background-color: #252525;
+    opacity: .2;
 }
 .bg-dark-alfa:before,
 .bg-dark-alfa .YTPOverlay:before{
@@ -2573,7 +2574,7 @@ a.logo:hover{
     position: absolute;
     top: 0;
     left: 0;
-    background: rgba(3,3,3, .9);
+    background: rgba(3,3,3, .7);
 }
 .bg-light-alfa:before{
     content: " ";
