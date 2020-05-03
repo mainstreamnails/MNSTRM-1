@@ -2952,13 +2952,15 @@ a.logo:hover{
 }
 .team-item-image{
     position: relative;
-    height: 275px;
-    max-height: 275px;
+    height: 370px;
+    
     overflow: hidden;
 }
 .team-item-image img{
     opacity: .75;
     width: 100%;
+    overflow: hidden;
+
 }
 .team-item-image:after{
     content: " ";
