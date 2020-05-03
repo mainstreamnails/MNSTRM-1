@@ -376,6 +376,14 @@
             },
             mainClass: "mfp-fade"
         });
+         
+        // portfolio Item Lightbox IG 				
+        $(".work-lightbox-link-elevate").magnificPopup({
+            gallery: {
+                enabled: true
+            },
+            mainClass: "mfp-fade"
+        });
         
         
         // portfolio Item Lightbox IG 				
