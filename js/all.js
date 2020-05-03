@@ -384,6 +384,13 @@
             },
             mainClass: "mfp-fade"
         });
+         // portfolio Item Lightbox desserts 				
+         $(".work-lightbox-link-elevate").magnificPopup({
+            gallery: {
+                enabled: true
+            },
+            mainClass: "mfp-fade"
+        });
         // portfolio Item Lightbox team 				
         $(".work-lightbox-link-team").magnificPopup({
             gallery: {
