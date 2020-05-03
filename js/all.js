@@ -377,8 +377,8 @@
             mainClass: "mfp-fade"
         });
          
-        // portfolio Item Lightbox IG 				
-        $(".work-lightbox-link-elevate").magnificPopup({
+        // portfolio Item Lightbox desserts 				
+        $(".work-lightbox-link-desserts").magnificPopup({
             gallery: {
                 enabled: true
             },
