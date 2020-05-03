@@ -391,6 +391,13 @@
             },
             mainClass: "mfp-fade"
         });
+        // portfolio Item Lightbox desserts 				
+        $(".work-lightbox-link-nalfie").magnificPopup({
+            gallery: {
+                enabled: true
+            },
+            mainClass: "mfp-fade"
+        });
         
         
         // portfolio Item Lightbox IG 				
